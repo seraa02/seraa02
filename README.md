@@ -8,14 +8,14 @@ What gets me going is the space where data, AI, and product thinking collide. I 
 I'm also the person who will ask "can you explain that simpler?" four times in a row until it actually clicks — and I think that's made me a better builder. When I design something, I'm always thinking about the person on the other end. Does this make sense? Is there a confusing edge case I'm missing? Can I make this feel less like software and more like it just works?
 That mindset has also helped me explain technical work to non-technical stakeholders — not just what was built, but why it matters and what it actually does for the business.
 
-💬 A few things I'm happy to talk about:
+💬 A few things I'm happy to talk about: 
 Data Analytics & Visualization · SQL & Database Design · Data Engineering · AI & Machine Learning · Healthcare Data · Dashboard Development · Public Speaking · International Student Life · Texas A&M traditions
 
 
-Fun Facts
-I love playing badminton
-I can finish an entire TV series much faster than I should and get invested in fictional character :)
-Most of my projects run on the c's: coffee, curiosity, and collaborations!
+Fun Facts 
+I love playing badminton,
+I can finish an entire TV series much faster than I should,
+Most of my projects run on coffee, curiosity, and collaborations.
 
 Moving halfway across the world for grad school was terrifying and one of the best decisions I've ever made!
 
